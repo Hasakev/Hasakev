@@ -13,7 +13,7 @@ Welcome to my GitHub profile! 👋 I'm Kevin (Guoyang), a third-year Software En
 Here are some of the projects I'm currently working on:
 
 1. **Outworld Outpost: Tower Defence Game**
-   - Description: A game built with 30 other students in a custom LibGDX game engine.
+   - Description: A game built with 35 other students in a custom LibGDX game engine.
    - GitHub Repository: [UQcsse3200/2023-studio-3](https://github.com/UQcsse3200/2023-studio-3)
    - Technologies Used: Java, GitHub
 
