@@ -4,7 +4,7 @@ Welcome to my GitHub profile! 👋 I'm Kevin (Guoyang), a third-year Software En
 
 ## About Me
 
-- 📚 Studying Software Engineering at [University of Queensland (UQ)](https://www.uq.edu.au/)
+- 📚 [University of Queensland (UQ)](https://www.uq.edu.au/)
 - 🌐 [LinkedIn](https://www.linkedin.com/in/hasakev/)
 - 📧 [Email](mailto:guoyang.luo@uq.edu.au)
 
