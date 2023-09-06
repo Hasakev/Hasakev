@@ -35,12 +35,12 @@ I'm passionate about software development, problem-solving, and continuous learn
 <br>
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hasakev&layout=compact&theme=dracula"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hasakev&layout=compact&theme=dracula&langs_count=20"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hasakev&layout=compact&theme=transparent"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hasakev&layout=compact&theme=transparent&langs_count=20"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasakev&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasakev&layout=compact&langs_count=20" />
 </picture>
