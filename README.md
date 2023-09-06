@@ -19,4 +19,9 @@ Here are some of the projects I'm currently working on:
 
 I'm passionate about software development, problem-solving, and continuous learning. Feel free to connect with me and explore my work!
 
-> This README was created using chatGPT :smirk_cat: 
+---
+
+<p align="center">
+  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=Hasakev&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&hide=issues&hide_rank=true&bg_color=00000000" />
+  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasakev&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=6">
+</p>
