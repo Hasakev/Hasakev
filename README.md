@@ -21,7 +21,4 @@ I'm passionate about software development, problem-solving, and continuous learn
 
 ---
 
-<p align="center">
-  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=Hasakev&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&hide=issues&hide_rank=true&bg_color=00000000" />
-  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasakev&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=6">
-</p>
+[![Hasakev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hasakev)](https://github.com/anuraghazra/github-readme-stats)
