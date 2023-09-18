@@ -1,5 +1,7 @@
 # Kevin Luo | Software Engineering Student @ UQ
 
+---
+
 Welcome to my GitHub profile! 👋 I'm Kevin (Guoyang), a third-year Software Engineering student at the University of Queensland (UQ). This is where I showcase my coding journey, projects, and contributions.
 
 ## About Me
