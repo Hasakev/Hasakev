@@ -1,5 +1,6 @@
 ### Welcome to my Github Profile
-I'm Kevin, a 4th year Software Engineering student @ UQ. 
+I'm Kevin, a 4th year Software Engineering student @ UQ.   
+![](https://komarev.com/ghpvc/?username=Hasakev&colour=blue&style=for-the-badge)  
 
 ```python
                       ████████████████                  
