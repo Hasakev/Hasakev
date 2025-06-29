@@ -1,6 +1,22 @@
 ## Hi there 👋
+I'm Kevin, a software engineering student @ [UQ](https://www.uq.edu.au/)
+
+I currently work as an Intern @ [EPEC Group](https://epecgroup.com.au/) 
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <!-- Dark mode -->
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Hasakev/Hasakev/main/github-contribution-grid-snake-dark.svg" />
+
+  <!-- Light mode -->
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Hasakev/Hasakev/main/github-contribution-grid-snake.svg" />
+
+  <!-- Fallback (light) -->
+  <img
+    src="https://raw.githubusercontent.com/Hasakev/Hasakev/main/github-contribution-grid-snake-dark.svg"
+    alt="GitHub contributions grid with snake animation" />
 </picture>
+
