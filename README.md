@@ -1,3 +1,12 @@
+
+## Hi there 👋
+I'm Kevin, a software engineering student @ [UQ](https://www.uq.edu.au/)
+
+I currently work as an Intern @ [EPEC Group](https://epecgroup.com.au/) 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Hasakev&show_icons=true&locale=en&theme=tokyonight" alt="hasakev" /></p>
+<p align="center" style="width: 100%;">
+    <img align="center" style="width: 100%;" src="https://raw.githubusercontent.com/Hasakev/Hasakev/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Hasakev" />
+</p>
 ```py
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠿⠿⠿⠿⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠛⣩⣥⣶⣾⣿⣿⣷⣶⣶⣬⣍⡛⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
@@ -25,12 +34,3 @@
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣦⣤⣤⣤⣶⣶⣿⡀⠰⠷⠸⢋⣠⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣶⣶⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿😼
 ```
-## Hi there 👋
-I'm Kevin, a software engineering student @ [UQ](https://www.uq.edu.au/)
-
-I currently work as an Intern @ [EPEC Group](https://epecgroup.com.au/) 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Hasakev&show_icons=true&locale=en&theme=tokyonight" alt="hasakev" /></p>
-<p align="center" style="width: 100%;">
-    <img align="center" style="width: 100%;" src="https://raw.githubusercontent.com/Hasakev/Hasakev/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Hasakev" />
-</p>
-
