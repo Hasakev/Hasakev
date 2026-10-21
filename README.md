@@ -16,7 +16,7 @@ I'm Kevin. I currently work as a Grad @ [EPEC Group](https://epecgroup.com.au/)
       srcset="https://github-stats-extended.vercel.app/api?username=Hasakev&rank_icon=percentile&custom_title=Hasakev's%20Stats&show=reviews,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&include_all_commits=true&theme=catppuccin_latte"
     />
     <img
-      src="[https://github-stats-extended.vercel.app/api?username=Hasakev&rank_icon=percentile&custom_title=Hasakev's%20Stats&show=reviews,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&include_all_commits=true&theme=catppuccin_mocha](https://github-stats-extended.vercel.app/api?username=Hasakev&rank_icon=percentile&custom_title=Hasakev's%20Stats&include_all_commits=true&theme=catppuccin_mocha)"
+      src="https://github-stats-extended.vercel.app/api?username=Hasakev&rank_icon=percentile&custom_title=Hasakev%27s%20Stats&show=reviews,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&include_all_commits=true&theme=catppuccin_mocha"
       alt="Hasakev's GitHub stats"
     />
   </picture>
