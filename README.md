@@ -9,11 +9,11 @@ I'm Kevin. I currently work as a Grad @ [EPEC Group](https://epecgroup.com.au/)
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-stats-extended.vercel.app/api?username=Hasakev&rank_icon=percentile&custom_title=Hasakev's%20Stats&show=reviews,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&include_all_commits=true&theme=tokyonight"
+      srcset="https://github-stats-extended.vercel.app/api?username=Hasakev&rank_icon=percentile&custom_title=Hasakev's%20Stats&show=reviews,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&include_all_commits=true&theme=catppuccin_mocha"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://github-stats-extended.vercel.app/api?username=Hasakev&rank_icon=percentile&custom_title=Hasakev's%20Stats&show=reviews,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&include_all_commits=true&theme=default"
+      srcset="https://github-stats-extended.vercel.app/api?username=Hasakev&rank_icon=percentile&custom_title=Hasakev's%20Stats&show=reviews,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&include_all_commits=true&theme=catppuccin_latte"
     />
     <img
       src="[https://github-stats-extended.vercel.app/api?username=Hasakev&rank_icon=percentile&custom_title=Hasakev's%20Stats&show=reviews,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&include_all_commits=true&theme=tokyonight](https://github-stats-extended.vercel.app/api?username=Hasakev&rank_icon=percentile&custom_title=Hasakev's%20Stats&include_all_commits=true&theme=tokyonight)"
