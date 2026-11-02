@@ -5,6 +5,7 @@ I'm Kevin. I currently work as a Grad @ [EPEC Group](https://epecgroup.com.au/)
 
 <div align="center">
   <img src="koi/koi.gif" width="256" alt="My koi" />
+  <img src="output/bonsai-growth.gif" width="384" alt="my git-bonsai" />
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
