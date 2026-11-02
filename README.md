@@ -7,18 +7,14 @@ I'm Kevin. I currently work as a Grad @ [EPEC Group](https://epecgroup.com.au/)
   <img src="koi/koi.gif" width="256" alt="My koi" />
   <img src="output/bonsai-growth.gif" width="384" alt="my git-bonsai" />
   <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-stats-extended.vercel.app/api?username=Hasakev&rank_icon=percentile&custom_title=Hasakev's%20Stats&show=reviews,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&include_all_commits=true&theme=catppuccin_mocha"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://github-stats-extended.vercel.app/api?username=Hasakev&rank_icon=percentile&custom_title=Hasakev's%20Stats&show=reviews,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&include_all_commits=true&theme=catppuccin_latte"
-    />
-    <img
-      src="https://github-stats-extended.vercel.app/api?username=Hasakev&rank_icon=percentile&custom_title=Hasakev%27s%20Stats&show=reviews,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&include_all_commits=true&theme=catppuccin_mocha"
-      alt="Hasakev's GitHub stats"
-    />
+    <source media="(prefers-color-scheme: dark)" srcset="profile/stats-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="profile/stats-light.svg" />
+    <img src="profile/stats-dark.svg" alt="Hasakev's GitHub stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="profile/top-langs-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="profile/top-langs-light.svg" />
+    <img src="profile/top-langs-dark.svg" alt="Hasakev's top languages" />
   </picture>
 
 </div>
