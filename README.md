@@ -1,11 +1,10 @@
 ## Hi there 👋
 
 I'm Kevin. I currently work as a Grad @ [EPEC Group](https://epecgroup.com.au/)
-
 <br>
 
 <div align="center">
-
+  <img src="koi/koi.gif" width="256" alt="My koi" />
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
