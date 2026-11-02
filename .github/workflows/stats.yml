@@ -30,13 +30,13 @@ jobs:
       - uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21
         with:
           card: top-langs
-          options: username=Hasakev&layout=compact&langs_count=8&theme=catppuccin_mocha
+          options: username=Hasakev&layout=compact&langs_count=8&exclude_repo=SOStudent,course-notes,CSSE2002A1,comp4403a1,comp4403a2,comp4403a3,COMP4500&theme=catppuccin_mocha
           path: profile/top-langs-dark.svg
           token: ${{ secrets.PROFILE_TOKEN }}
       - uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21
         with:
           card: top-langs
-          options: username=Hasakev&layout=compact&langs_count=8&theme=catppuccin_latte
+          options: username=Hasakev&layout=compact&langs_count=8&exclude_repo=SOStudent,course-notes,CSSE2002A1,comp4403a1,comp4403a2,comp4403a3,COMP4500&theme=catppuccin_latte
           path: profile/top-langs-light.svg
           token: ${{ secrets.PROFILE_TOKEN }}
 
