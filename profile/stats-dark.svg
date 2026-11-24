@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Hasakev&#39;s Stats, Rank: B</title>
-        <desc id="descId">Total Stars Earned: 0, Total Commits  : 2322, Total PRs: 81, Total PRs Merged: 67, Merged PRs Percentage: 82.72, Total PRs Reviewed: 6, Total Issues: 52, PRs Commented: 40, PRs Reviewed: 32, Issues Commented: 3, Contributed to (last year): 25</desc>
+        <desc id="descId">Total Stars Earned: 0, Total Commits  : 2326, Total PRs: 81, Total PRs Merged: 67, Merged PRs Percentage: 82.72, Total PRs Reviewed: 6, Total Issues: 52, PRs Commented: 40, PRs Reviewed: 32, Issues Commented: 3, Contributed to (last year): 25</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 127.64591967575191;
+        stroke-dashoffset: 127.6227254173698;
       }
     }
   
